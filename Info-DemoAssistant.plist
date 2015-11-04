@@ -21,7 +21,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
@@ -32,7 +32,7 @@
 			<key>NSKeyEquivalent</key>
 			<dict>
 				<key>default</key>
-				<string>^</string>
+				<string>[</string>
 			</dict>
 			<key>NSMenuItem</key>
 			<dict>
@@ -52,7 +52,7 @@
 			<key>NSKeyEquivalent</key>
 			<dict>
 				<key>default</key>
-				<string>/</string>
+				<string>2</string>
 			</dict>
 			<key>NSMenuItem</key>
 			<dict>
@@ -72,7 +72,7 @@
 			<key>NSKeyEquivalent</key>
 			<dict>
 				<key>default</key>
-				<string>|</string>
+				<string>3</string>
 			</dict>
 			<key>NSMenuItem</key>
 			<dict>
@@ -92,7 +92,7 @@
 			<key>NSKeyEquivalent</key>
 			<dict>
 				<key>default</key>
-				<string>\</string>
+				<string>1</string>
 			</dict>
 			<key>NSMenuItem</key>
 			<dict>
